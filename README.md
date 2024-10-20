@@ -5,6 +5,7 @@
 # Papers
 ## Rag Metric Papers
 - Evaluation of RAG Metrics for Question Answering in the Telecom Domain (https://arxiv.org/abs/2407.12873)
+- A Methodology for Evaluating RAG Systems: A Case Study On Configuration Dependency Validation (https://arxiv.org/abs/2410.08801)
 
 ## Knowledge Graphs
 -  A review: Knowledge reasoning over knowledge graph (https://www.sciencedirect.com/science/article/abs/pii/S0957417419306669)
