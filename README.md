@@ -14,3 +14,6 @@
 - Bayesian Optimization for Optimizing Retrieval Systems (https://dl.acm.org/doi/abs/10.1145/3159652.3159665)
 - Explainable Artificial Intelligence via Bayesian Teaching (https://shaftolab.com/assets/papers/yangShafto_NIPS_2017_machine_teaching.pdf)
 - Bayesian inference to improve quality of Retrieval Augmented Generation (https://arxiv.org/abs/2408.08901)
+
+# Timeline
+![Logo](images/ML-Independent-Study-Gantt-Chart.png)
