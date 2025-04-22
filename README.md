@@ -1,19 +1,6 @@
 # LLM Reasoning Research
  Machine Learning Independent Study research project centered around organizing the chain of reasoning a large language model may use with RAG and knowledge graphs, done in the Fall 2024 semeseter at Marist College - School of Computer Science & Math. Advised by Dr. Eitel Lauria.
 
-
-# Papers
-## Rag Metric Papers
-- Evaluation of RAG Metrics for Question Answering in the Telecom Domain (https://arxiv.org/abs/2407.12873)
-- A Methodology for Evaluating RAG Systems: A Case Study On Configuration Dependency Validation (https://arxiv.org/abs/2410.08801)
-
-## Knowledge Graphs
--  A review: Knowledge reasoning over knowledge graph (https://www.sciencedirect.com/science/article/abs/pii/S0957417419306669)
--  RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models (https://arxiv.org/abs/2405.00449)
-## Bayesian Inference for RAG Model Reasoning
-- Bayesian Optimization for Optimizing Retrieval Systems (https://dl.acm.org/doi/abs/10.1145/3159652.3159665)
-- Explainable Artificial Intelligence via Bayesian Teaching (https://shaftolab.com/assets/papers/yangShafto_NIPS_2017_machine_teaching.pdf)
-- Bayesian inference to improve quality of Retrieval Augmented Generation (https://arxiv.org/abs/2408.08901)
-
-# Timeline
-![Logo](images/ML-Independent-Study-Gantt-Chart.png)
+# Final Published Work
+Paper: https://www.scitepress.org/Papers/2025/134682/134682.pdf 
+Citation (Harvard): Sarmiento, C. and Lauría, E. J. M. (2025). Investigating Flavors of RAG for Applications in College Chatbots.  In Proceedings of the 17th International Conference on Computer Supported Education - Volume 2, ISBN 978-989-758-746-7, ISSN 2184-5026, pages 421-428.  DOI: 10.5220/0013468200003932  
